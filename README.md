@@ -1,8 +1,19 @@
-<h1 align="center">Hi there, I'm Sergei
+<h1 align="center">Привет всем! Я Сергей!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Data Engineer</h3>
+<h3 align="center">Начинающий Data Engineer, разработчик DWH, ETL/ELT. Любитель Python, автоматизации, DS и ML.</h3>
 
+Интересуюсь ИТ-технологиями. Занимаюсь самообразованием, прохожу различные курсы по
+дата-инжинирингу и анализу данных, программированию, DS/ML. Люблю учиться и
+узнавать новое.  
 
+Люблю слонов, змей, панд и других животных!
+
+**Небольшой стек с чем приходилось работать:**
+
+`SQL` `Python` `Django` `ETL\ELT` `DWH` `HDFS` `Pandas` `Jupiter`
+`Hadoop` `Linux` `Docker` `Git` `Kubernetes` `Airflow` `Spark` `Kafka`
+`PostgreSQL` `Redis` `MongoDB` `Vertica` `ClickHouse` `Greenplum` `Prometheus`
+`Metabase` `Tableu` `DataLens` `Machine learning` `Data Analysis`
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
