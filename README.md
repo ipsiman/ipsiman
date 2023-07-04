@@ -7,7 +7,7 @@
 
 **Небольшой стек с чем приходилось работать:**
 
-`SQL` `Python` `Django` `ETL\ELT` `DWH` `HDFS` `Pandas` `Jupiter`
+`SQL` `Python` `Django` `ETL\ELT` `DWH` `Pandas` `Jupiter`
 `Hadoop` `Linux` `Docker` `Git` `Kubernetes` `Airflow` `Spark` `Kafka`
 `PostgreSQL` `Redis` `MongoDB` `Vertica` `ClickHouse` `Greenplum`
 `Metabase` `Tableu` `DataLens` `Data Analysis`
