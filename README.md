@@ -1,6 +1,6 @@
 <h1 align="center">Привет всем! Я Сергей!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий Data Engineer, разработчик DWH, ETL/ELT. Любитель Python и автоматизации.</h3>
+<h3 align="center">Data Engineer, разработчик DWH, ETL/ELT. Любитель Python и автоматизации.</h3>
 
 Интересуюсь ИТ-технологиями. Занимаюсь самообразованием, прохожу различные курсы по
 дата-инжинирингу и программированию. Люблю учиться и узнавать новое.
